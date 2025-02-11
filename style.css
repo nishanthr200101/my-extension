@@ -1,0 +1,30 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  width: 200px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #0073e6;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.fullPageBtn{
+    margin-bottom: 10px;
+}
+
+button:hover {
+  background-color: #005bb5;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  margin: 5px 0;
+}
